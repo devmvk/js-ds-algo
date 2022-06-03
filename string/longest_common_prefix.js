@@ -1,0 +1,4 @@
+function longestCommonPrefix(arr,n){
+
+
+}
